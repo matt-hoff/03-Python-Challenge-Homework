@@ -1,0 +1,29 @@
+Last login: Sat Aug  4 23:19:39 on ttys001
+Matthews-MBP:~ macbookpro$ cd Desktop/
+Matthews-MBP:Desktop macbookpro$ cd Python\ Challenge/
+Matthews-MBP:Python Challenge macbookpro$ ls
+PyBank	PyPoll
+Matthews-MBP:Python Challenge macbookpro$ PyPoll/
+-bash: PyPoll/: is a directory
+Matthews-MBP:Python Challenge macbookpro$ cd PyPoll/
+Matthews-MBP:PyPoll macbookpro$ ls
+Resources	main-PyPoll.py
+Matthews-MBP:PyPoll macbookpro$ python main-PyPoll.py 
+Election Results 
+---------------------------
+Total Votes: 
+---------------------------
+Kahn: 
+Correy: 
+Li: 
+O'Tooley: 
+---------------------------
+Winner: 
+---------------------------
+Matthews-MBP:PyPoll macbookpro$ 
+
+
+
+
+
+
